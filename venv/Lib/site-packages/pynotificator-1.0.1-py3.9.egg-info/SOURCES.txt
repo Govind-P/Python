@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+pynotificator/__init__.py
+pynotificator/__main__.py
+pynotificator/_version.py
+pynotificator.egg-info/PKG-INFO
+pynotificator.egg-info/SOURCES.txt
+pynotificator.egg-info/dependency_links.txt
+pynotificator.egg-info/entry_points.txt
+pynotificator.egg-info/not-zip-safe
+pynotificator.egg-info/requires.txt
+pynotificator.egg-info/top_level.txt
